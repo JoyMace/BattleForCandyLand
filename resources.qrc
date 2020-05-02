@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>blueGingerbread.png</file>
+        <file>redGingerBread.png</file>
+        <file>smallJellyBean.png</file>
+        <file>background.png</file>
+        <file>caramelSyrup.png</file>
+        <file>cherries.png</file>
+        <file>chocolateSyrup.png</file>
+        <file>sprinkles.png</file>
+    </qresource>
+</RCC>
